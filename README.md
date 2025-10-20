@@ -1,4 +1,5 @@
 # 41371215H 林恩平 作業3 個人網站 + API 串接
+[介紹影片](https://youtu.be/_BOkz5XkTpU)
 # 安裝流程
 1. 安裝 [React](https://reactnative.dev/docs/next/set-up-your-environment)
 - 開啟 `PowerShell`
