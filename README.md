@@ -14,4 +14,4 @@
 # 功能展示
 - 基本 HTML + CSS + JavaScript 個人網站
 - 基於 React 架構的 Gemini API 聊天機器人
-[Gemini AI 展示](/IMG1,png)
+![Gemini AI 展示](/IMG1.png)
